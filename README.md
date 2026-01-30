@@ -122,7 +122,7 @@ The UI is broken down into atomic, reusable components.
 ```mermaid
 graph TD
     Root[App.tsx]
-    Root --> Provider[Providers (Clerk, Theme)]
+    Root --> Provider["Providers (Clerk, Theme)"]
     Provider --> Layout
     
     Layout --> Sidebar
