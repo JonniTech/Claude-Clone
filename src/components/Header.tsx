@@ -45,7 +45,7 @@ export function Header({ onMenuClick, onDesktopToggle, isDesktopSidebarCollapsed
                     <div className="flex items-center gap-2">
                         <ClaudeLogo size="sm" className="text-primary" />
                         <h1 className="text-sm sm:text-base font-medium md:ml-0">
-                            <span className="text-primary">claude</span>
+                            <span className="text-primary">Claude</span>
                         </h1>
                     </div>
                 </div>
